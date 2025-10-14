@@ -1,7 +1,7 @@
-// Name :- Chowhan Abdus Samad 
+// Name :- Shaikh Zaid 
 // Class : Computer Enginnering
 // Division :- D
-// UIN :- 251P126 
+// UIN :- 251P108 
 #include <stdio.h>
 
 int main() {
@@ -52,4 +52,5 @@ start:
     }
 
     goto start;
+
 }
